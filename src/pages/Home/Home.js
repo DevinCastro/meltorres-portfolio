@@ -46,7 +46,7 @@ const Home = () => {
             <h1>Musician Overview</h1>
           </div>
 
-
+          <div className="space"></div>
 
 
 
@@ -61,22 +61,22 @@ const Home = () => {
 
           <div className="socials text-center">
 
-            <a target="_blank" href="https://www.facebook.com/AsylusMusic/">
+            <a target="_blank" href="https://www.facebook.com/meltorres803">
             <img className="icons" src="https://image.flaticon.com/icons/svg/56/56582.svg" alt="facebook"/>
             </a>
             {"  "}
 
-            <a target="_blank" href="http://instagram.com/asylusmusic">
+            <a target="_blank" href="https://www.instagram.com/iwakeuptovisuals/">
             <img className="icons" src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-black/512/instagram-512.png" alt="instagram"/>
             </a>
             {"  "}
 
-            <a target="_blank" href="https://twitter.com/asylusmusic/">
+            <a target="_blank" href="https://twitter.com/iwakeuptosleep?lang=en">
             <img className="icons" src="https://image.flaticon.com/icons/png/512/23/23681.png" alt="twitter"/>
             </a>
             {"  "}
 
-            <a target="_blank" href="https://www.youtube.com/channel/UCrG0lNbd0sBZgrIBRR9WJAg">
+            <a target="_blank" href="https://www.youtube.com/meltorres">
             <img className="icons" src="https://image.flaticon.com/icons/png/512/8/8782.png" alt="youtube"/>
             </a>
           </div>
