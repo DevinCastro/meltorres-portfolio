@@ -30,7 +30,21 @@ const Home = () => {
           </div>
 
 
+          <div className="film">
+            <h1>Video Overview</h1>
+          </div>
 
+          <div className="space"></div>
+
+          <div className="audio">
+            <h1>Audio Overview</h1>
+          </div>
+
+          <div className="space"></div>
+
+          <div className="musician">
+            <h1>Musician Overview</h1>
+          </div>
 
 
 
